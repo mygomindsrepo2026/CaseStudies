@@ -592,7 +592,7 @@ In the next chapter, you'll learn about:
 - NoneType
 
 Understanding data types is essential because every variable in Python stores a specific type of data.
-
+👉 **Click Here:** [🔢 Data Types](https://github.com/mygomindsrepo2026/CaseStudies/blob/main/Variables/DataTypes.md)
 ---
 
 <div align="center">
